@@ -23,9 +23,32 @@ c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictio
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.Views.TranslatePage.xaml.g.cs
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.config
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.pdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.csproj.App.config
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.csprojResolveAssemblyReference.cache
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.App.xaml.g.cs
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.Views.MainPage.xaml.g.cs
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.Views.HistoryPage.xaml.g.cs
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.Views.SettingsPage.xaml.g.cs
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.Views.TranslatePage.xaml.g.cs
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.pdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+C:\Users\151-321\Documents\ExamDictionary2\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
