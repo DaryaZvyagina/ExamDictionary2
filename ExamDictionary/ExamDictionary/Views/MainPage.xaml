@@ -2,8 +2,7 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:local="clr-namespace:ExamDictionary.Views"
-             x:Class="ExamDictionary.Views.MainPage"
-            Title="Словарь">
+             x:Class="ExamDictionary.Views.MainPage">
   <TabbedPage.Children>
     <local:TranslatePage />
     <local:HistoryPage />
